@@ -9,7 +9,7 @@ public class Classthree extends Classtwo{
 	}
 	
 	private void orange() {
-				
+	
 	}
 	public static void main(String[] args) {
 		
